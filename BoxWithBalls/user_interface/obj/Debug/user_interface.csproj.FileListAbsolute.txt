@@ -1,0 +1,13 @@
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\user_interface\bin\Debug\user_interface.exe.config
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\user_interface\bin\Debug\user_interface.exe
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\user_interface\bin\Debug\user_interface.pdb
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\user_interface\obj\Debug\user_interface.Form1.resources
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\user_interface\obj\Debug\user_interface.Properties.Resources.resources
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\user_interface\obj\Debug\user_interface.csproj.GenerateResource.Cache
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\user_interface\obj\Debug\user_interface.exe
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\user_interface\obj\Debug\user_interface.pdb
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\user_interface\obj\Debug\user_interface.csprojResolveAssemblyReference.cache
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\user_interface\obj\Debug\user_interface.BuyMoney.resources
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\user_interface\obj\Debug\user_interface.TableForm.resources
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\user_interface\bin\Debug\BoxWithBalls.exe
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\user_interface\bin\Debug\BoxWithBalls.pdb

@@ -1,0 +1,12 @@
+c:\users\khaliun\documents\visual studio 2015\Projects\BoxWithBalls\BoxWithBalls\bin\Debug\BoxWithBalls.exe.config
+c:\users\khaliun\documents\visual studio 2015\Projects\BoxWithBalls\BoxWithBalls\bin\Debug\BoxWithBalls.exe
+c:\users\khaliun\documents\visual studio 2015\Projects\BoxWithBalls\BoxWithBalls\bin\Debug\BoxWithBalls.pdb
+c:\users\khaliun\documents\visual studio 2015\Projects\BoxWithBalls\BoxWithBalls\obj\Debug\BoxWithBalls.csprojResolveAssemblyReference.cache
+c:\users\khaliun\documents\visual studio 2015\Projects\BoxWithBalls\BoxWithBalls\obj\Debug\BoxWithBalls.Form1.resources
+c:\users\khaliun\documents\visual studio 2015\Projects\BoxWithBalls\BoxWithBalls\obj\Debug\BoxWithBalls.Properties.Resources.resources
+c:\users\khaliun\documents\visual studio 2015\Projects\BoxWithBalls\BoxWithBalls\obj\Debug\BoxWithBalls.csproj.GenerateResource.Cache
+c:\users\khaliun\documents\visual studio 2015\Projects\BoxWithBalls\BoxWithBalls\obj\Debug\BoxWithBalls.exe
+c:\users\khaliun\documents\visual studio 2015\Projects\BoxWithBalls\BoxWithBalls\obj\Debug\BoxWithBalls.pdb
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\BoxWithBalls\obj\Debug\BoxWithBalls.UserAttention.resources
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\BoxWithBalls\obj\Debug\BoxWithBalls.TableForm.resources
+C:\Users\Khaliun\documents\visual studio 2015\Projects\BoxWithBalls\BoxWithBalls\obj\Debug\BoxWithBalls.Characters.resources

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxWithBalls", "BoxWithBalls\BoxWithBalls.csproj", "{4F9C430C-207B-4D79-BD98-67F188B49F54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{BEA963CC-83C5-4233-B285-9DEA61404159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "user_interface", "user_interface\user_interface.csproj", "{04DA8C1C-573D-4D16-9CA8-46D304F638AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F9C430C-207B-4D79-BD98-67F188B49F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9C430C-207B-4D79-BD98-67F188B49F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9C430C-207B-4D79-BD98-67F188B49F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9C430C-207B-4D79-BD98-67F188B49F54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA963CC-83C5-4233-B285-9DEA61404159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA963CC-83C5-4233-B285-9DEA61404159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA963CC-83C5-4233-B285-9DEA61404159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA963CC-83C5-4233-B285-9DEA61404159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04DA8C1C-573D-4D16-9CA8-46D304F638AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DA8C1C-573D-4D16-9CA8-46D304F638AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DA8C1C-573D-4D16-9CA8-46D304F638AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DA8C1C-573D-4D16-9CA8-46D304F638AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

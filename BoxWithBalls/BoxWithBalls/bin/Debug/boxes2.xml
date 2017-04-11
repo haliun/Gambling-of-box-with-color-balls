@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<boxes>
+  <box id="1">
+    <balls>
+      <ball color="white" />
+      <ball color="black" />
+      <ball color="white" />
+    </balls>
+  </box>
+</boxes>
